@@ -1,0 +1,17 @@
+{
+  "name": "hanzala",
+  "phone": 387783487,
+  "email": "shaikhhanzala@gmail.com",
+  "address": "Hyderabad",
+  "Order": [
+    {
+      "orderId": 9783,
+      "productname": "iphone",
+      "price": "100000",
+      "Discount": "10%",
+      "Warrenty": "applicable",
+      "payment": "ONLINE",
+      "EMI": "NO"
+    }
+  ]
+}
